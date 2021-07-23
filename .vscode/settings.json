@@ -1,0 +1,17 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "[go]": {
+
+        "editor.insertSpaces": false,
+        "editor.autoClosingBrackets": "always"
+    },
+    "[javascript]": {
+
+        "togglequotes.chars": [
+            "\"",
+            "'",
+            "`"
+        ],
+        "editor.autoClosingBrackets": "always"
+    }
+}
